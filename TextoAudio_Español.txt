@@ -1,0 +1,1 @@
+Hola, esto es una prueba de voz para Unreal. Utilizando el plugin Metahuman SDK. La grabación del audio es en español.
